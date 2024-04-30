@@ -1,0 +1,22 @@
+p { /* i changed the display value mostly as a test to see if i still remember how it works */
+    display:inline-block 
+}
+label {
+    color: skyblue;
+}
+
+input[type="text"] {
+    border-color: green;
+}
+
+input[type="email"] {
+    background-color: blue;
+}
+
+button {
+    background-color: green;
+}
+
+body {
+    background-color: salmon;
+}
